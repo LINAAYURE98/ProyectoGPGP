@@ -1,0 +1,32 @@
+.footer {
+    color: #58666e;
+    padding: 20px 30px;
+    font-weight: 300;
+    background: linear-gradient(to right, rgba(14,50,51,1) 0%, rgba(14,50,51,1) 31%, rgba(11,60,61,1) 64%, rgba(16,98,99,1) 92%, rgba(16,98,99,1) 100%) !important;
+}
+.bg-header-nav-pri{
+  background: linear-gradient(to right, rgba(14,50,51,1) 0%, rgba(14,50,51,1) 31%, rgba(11,60,61,1) 64%, rgba(16,98,99,1) 92%, rgba(16,98,99,1) 100%) !important;
+}
+.LoginBox {
+  width: 100%;
+  height: auto;
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+  -webkit-box-shadow: -6px 10px 5px 0px rgb(199 197 199);
+  -moz-box-shadow: -6px 10px 5px 0px rgba(199,197,199,1);
+  box-shadow: -6px 10px 5px 0px rgb(199 197 199);
+}
+.Title-login {
+  font-size: 18px;
+}
+.center{
+  text-align: center;
+}
+.Caja-dat-login{
+  margin-top: 25px;
+}
+.trajeta-inicio{
+  justify-content: center
+}
